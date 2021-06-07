@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/SahuUtkarsh03/SahuUtkarsh03/blob/main/Utkarsh.svg" alt="Utkarsh"/>
 
 <!--
 **SahuUtkarsh03/SahuUtkarsh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
